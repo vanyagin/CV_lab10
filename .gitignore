@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+venv/
+coco128/
+data500/
+examples/
+db.pickle
+model.pickle
+val2017/
+voc2012/
